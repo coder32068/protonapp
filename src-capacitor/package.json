@@ -1,0 +1,12 @@
+{
+  "name": "example-quasar-dexie-sync",
+  "version": "0.0.1",
+  "description": "An Example app which demonstrates offline support for Supabase",
+  "author": "coder32068 <accessor.coder.gitpod@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

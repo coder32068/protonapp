@@ -1,0 +1,5 @@
+tasks:
+  - init: |-
+      export PATH="$(yarn global bin):$PATH"
+      yarn install
+  - command: yarn dev

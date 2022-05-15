@@ -1,0 +1,10 @@
+{
+  "appId": "com.shrinandhan.smartx",
+  "appName": "Quasar Dexie Sync",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://10.0.5.2:8080"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quasar Dexie Sync</string>
+    <string name="title_activity_main">Quasar Dexie Sync</string>
+    <string name="package_name">com.shrinandhan.smartx</string>
+    <string name="custom_url_scheme">com.shrinandhan.smartx</string>
+</resources>
